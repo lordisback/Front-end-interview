@@ -19,3 +19,12 @@ function parseExp(exp) {
 - 聊人生聊理想聊职位匹配
 - 算法题 全排列
 - 算法题 滑动窗口最大值问题 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+## Airwallex
+
+### 一面
+- 自我介绍
+- 项目问答
+- 是否了解 react 17 新特性
+- 'class component' vs 'functional component', 两者在内存和性能上有什么区别？
+- 是否了解微前端，会有什么问题？（其实是想问公共 lib 如何 share，他们家用了微前端，但是这个问题也没有解）
